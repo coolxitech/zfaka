@@ -1,5 +1,7 @@
 # ZFAKA发卡系统(本系统基于yaf+layui开发)
 
+>**本仓库为镜像仓库,非作者本人上传,仅提供下载,不处理任何问题。**
+
 >**郑重申明：本项目为开源程序，仅做技术交流使用**
 
 >演示地址：https://faka.zlkb.net/
@@ -74,11 +76,11 @@
 <pre>#######################################################</pre> 
 
 ## 2.2 系统安装
->参考：[系统安装指南](https://github.com/zlkbdotnet/zfaka/wiki/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97).
+>参考：[系统安装指南](https://github.com/coolxitech/zfaka/wiki/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97).
 
 ### 2.2.1 下载代码
 >测试版：
-<pre>git clone https://github.com/zlkbdotnet/zfaka.git [这是最新测试版]</pre> 
+<pre>git clone https://github.com/coolxitech/zfaka.git [这是最新版]</pre> 
 
 >稳定版：请访问这里下载：https://github.com/zlkbdotnet/zfaka/releases
 
@@ -110,16 +112,3 @@
 ### 2.4 后台安全
 >参考： [后台地址安全增强处理](https://github.com/zlkbdotnet/zfaka/wiki/%E5%90%8E%E5%8F%B0%E5%9C%B0%E5%9D%80%E5%AE%89%E5%85%A8%E5%A2%9E%E5%BC%BA%E5%A4%84%E7%90%86)
 
-# 三、系统升级
-> 参考：[系统如何升级？](https://github.com/zlkbdotnet/zfaka/wiki/%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E5%8D%87%E7%BA%A7%EF%BC%9F)
-
-# 四、BUG与问题反馈
-* 相关问题QQ交流群：701035212 [收费群]
-   
-# 五、推广时间
-* 全国IDC行业精英群:572511758
-
-# 六、捐赠&打赏
->捐赠名单：[查看名单](https://github.com/zlkbdotnet/zfaka/wiki/%E6%8D%90%E8%B5%A0%E5%90%8D%E5%8D%95)
-
-![1](https://github.com/coolxitech/zfaka/blob/12555d1ca693901434b988003ec28411c48181d2/public/res/images/pay/supportme.jpg)
