@@ -122,4 +122,4 @@
 # 六、捐赠&打赏
 >捐赠名单：[查看名单](https://github.com/zlkbdotnet/zfaka/wiki/%E6%8D%90%E8%B5%A0%E5%90%8D%E5%8D%95)
 
-![1](https://github.com/coolxitech/zfaka/blob/master/public/res/images/pay/supportme.jpg)
+![1](https://github.com/coolxitech/zfaka/blob/12555d1ca693901434b988003ec28411c48181d2/public/res/images/pay/supportme.jpg)
